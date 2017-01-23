@@ -8,3 +8,4 @@ Git learning.
 Creating a new branch is quick AND simple.
 --no-ff
 This is version 0.1.1.
+This is version 0.1.1.2

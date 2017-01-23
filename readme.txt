@@ -7,3 +7,4 @@ Git is free software distributed under the GPL.
 Git learning.
 Creating a new branch is quick AND simple.
 --no-ff
+This is version 0.1.1.
